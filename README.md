@@ -1,25 +1,5 @@
-# Block Editor Handbook
+# Gutenberg-Documentation
 
-## Chapters
+A project aimed at improving the Gutenberg/Block Editor developer documentation.
 
-## Introduction to Block Development
-
-### Project Overview
-
-## Block Development Basics
-
-## Tutorials
-
-## References
-
-### Developer Documentation
-
-### Designer Documentation
-
-### Contributor Guide
-
-### Component Reference
-
-### Data Module Reference
-
-### Package Reference
+Aimed specifically at WordPress developers who want to build Gutenberg blocks
