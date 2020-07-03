@@ -1,4 +1,4 @@
-# Gutenberg-Documentation
+# Gutenberg-Development-Documentation
 
 A project aimed at improving the Gutenberg/Block Editor developer documentation.
 
