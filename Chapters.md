@@ -30,8 +30,6 @@
 
 #### Backward Compatibility
 
-#### Backward Compatibility
-
 #### Gutenberg as a Development Platform
 
 ### Designer Documentation
